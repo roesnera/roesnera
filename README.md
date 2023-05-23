@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Adam Roesner, a Full Stack Web Developer (most experienced with React/Spring Boot/MySQL) and a web development teacher. I am always working to learn new skills and tools to expand my abilities. I have a passion for finding the right tool for the job and I am always looking for constructive feedback on my work!
+I am Adam Roesner, a Full Stack Web Developer (most experienced with React/Spring Boot/MySQL) and a web development teacher. I am constantly working to learn new skills and tools to expand my abilities. I have a passion for finding the right tool for the job and I am always looking for constructive feedback on my work!
 
 😄 Pronouns: he/him/his
 
