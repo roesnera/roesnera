@@ -2,15 +2,13 @@
 
 ## About Me
 
-I am Adam Roesner, a Full Stack Web Developer (most experienced with React/Spring Boot/MySQL) and a web development teacher. I am constantly working to learn new skills and tools to expand my abilities. I have a passion for finding the right tool for the job and I am always looking for constructive feedback on my work!
+I am Adam Roesner, a Technical Project Manager, Lead Developer (most experienced with Angular/Express/MongoDB) and a web development teacher. I am constantly working to learn new skills and tools to expand my abilities. I have a passion for finding the right tool for the job and I am always looking for constructive feedback on my work!
 
 😄 Pronouns: he/him/his
 
-🔭 I’m currently working on improving my CI/CD skills by implementing a rigid deployment pipeline and testing suite on my current professional projects.
+🔭 I’m currently working on improving my CI/CD skills by implementing a rigid deployment pipeline and testing suite on my professional projects.
 
 Outside of work, I have a passion for staying active, I love to ride my bike 🚵, train in mma 🥊, play guitar 🎸, and read 📚.
-
-This winter I am training to be able to run a marathon in the fall of next year.
 
 ## Skills
 
